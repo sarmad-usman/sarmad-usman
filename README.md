@@ -27,12 +27,7 @@
 ## 🏅 GitHub Achievements
 
 <div align="left">
-  <a href="https://community.vaunt.dev/board/sarmad-usman/achievements">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/sarmad-usman/achievements?format=svg&limit=50&raw=true"
-      alt="GitHub Achievements"
-    />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarmad-usman&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Achievements" />
 </div>
 
 ## 🏆 GitHub Trophies
