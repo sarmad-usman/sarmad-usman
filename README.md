@@ -21,21 +21,27 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=sarmad-usman\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com/?user=sarmad-usman\&theme=dark\&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarmad-usman\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ## 🏅 GitHub Achievements
 
 <div align="left">
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sarmad-usman\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=4\&column=7)](https://github.com/sarmad-usman)
+<a href="https://github.com/sarmad-usman">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sarmad-usman&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Achievements" />
+</a>
 
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="left">
-  <img src="https://github-trophies.vercel.app/?username=sarmad-usman&theme=dark" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sarmad-usman&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
 </div>
 
 ### ✍️ Random Dev Quote
