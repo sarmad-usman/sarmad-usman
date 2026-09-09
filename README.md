@@ -27,7 +27,9 @@
 ## 🏅 GitHub Achievements
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarmad-usman&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Achievements" />
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sarmad-usman\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=4\&column=7)](https://github.com/sarmad-usman)
+
 </div>
 
 ## 🏆 GitHub Trophies
