@@ -23,9 +23,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sarmad-usman" alt="GitHub Trophies" />
-</p>
+<div align="left">
+  <img src="https://github-trophies.vercel.app/?username=sarmad-usman&theme=dark" alt="GitHub Trophies" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
