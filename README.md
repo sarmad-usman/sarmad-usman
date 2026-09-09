@@ -20,5 +20,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://view-counter.tobyhagan.com/?user=sarmad-usman&base=161b22&accent=238636&text=ffffff&flat=true)
+![Profile Views](https://shieldcn.dev/views/user/sarmad-usman.svg?variant=secondary&base=88)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
