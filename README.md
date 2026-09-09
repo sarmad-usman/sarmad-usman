@@ -20,6 +20,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Profile views](https://shieldcn.dev/views/user/sarmad-usman.svg?variant=secondary)
-
+[![](https://komarev.com/ghpvc/?username=sarmad-usman&style=flat-square&color=grey)](https://komarev.com)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
