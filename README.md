@@ -27,8 +27,11 @@
 ## 🏅 GitHub Achievements
 
 <div align="left">
-  <a href="https://github.com/sarmad-usman">
-    <img src="https://api.vaunt.dev/v1/github/entities/sarmad-usman/achievements?format=svg&limit=50&raw=true" alt="GitHub Achievements" />
+  <a href="https://community.vaunt.dev/board/sarmad-usman/achievements">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/sarmad-usman/achievements?format=svg&limit=50&raw=true"
+      alt="GitHub Achievements"
+    />
   </a>
 </div>
 
