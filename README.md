@@ -20,4 +20,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Profile Views](https://gitviews.com/user/sarmad-usman.svg?style=flat-square&label-color=%23161b22&color=%23238636)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://view-counter.tobyhagan.com/?user=sarmad-usman&base=161b22&accent=238636&text=ffffff&flat=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
