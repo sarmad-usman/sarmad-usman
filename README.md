@@ -20,5 +20,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarmad-usman&style=flat-square&color=grey)](https://komarev.com)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://gitviews.com/user/sarmad-usman.svg?style=flat-square&label-color=%23161b22&color=%23238636)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
