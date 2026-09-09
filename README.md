@@ -45,5 +45,3 @@
 ---
 
 ![Profile Views](https://shieldcn.dev/views/user/sarmad-usman.svg?variant=secondary)
-
----
