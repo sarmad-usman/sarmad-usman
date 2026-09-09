@@ -44,4 +44,6 @@
 
 ---
 
-![Profile Views](https://shieldcn.dev/views/user/sarmad-usman.svg?variant=secondary\&base=88)
+![Profile Views](https://shieldcn.dev/views/user/sarmad-usman.svg?variant=secondary)
+
+---
